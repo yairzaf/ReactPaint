@@ -1,8 +1,7 @@
 import React from 'react';
-import './App.css';
 
-import Handler from './Handler/Handler.js';
-class App extends React.Component 
+
+class Graphics extends React.Component 
 {
   
   render()
@@ -15,4 +14,4 @@ class App extends React.Component
   }
 }
 
-export default App;
+export default Graphics;
